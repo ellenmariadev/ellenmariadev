@@ -17,7 +17,7 @@ I am a Front-End Developer who simply 💜 combine good design and clean code in
 > **Age:** 19\
 > **Living in:** Paulo Afonso - BA, Brazil\
 > **Favorite Game:** Stardew Valley\
-> **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [Twitter](https://twitter.com/ellenmariadev/)\
+> **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmaria.me)\
 > **Stack:** `HTML` `CSS` `JavaScript` `JQuery` `Bootstrap` `React`
 </samp>
 
