@@ -22,7 +22,7 @@ I am a Front-End Developer who simply 💜 combine good design and clean code in
 > **Favorite Game:** Stardew Valley\
 > **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmaria.me)
 
-**Stack:** `HTML` `CSS` `JavaScript` `React.js` `Chakra UI` `SQL` `Node.js`
+**Stack:** `HTML` `CSS` `JavaScript` `React.js` `Chakra UI` `Node.js` `Python` `Django`
 
 </samp>
 
@@ -53,4 +53,4 @@ I am a Front-End Developer who simply 💜 combine good design and clean code in
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 
-[![@ellenmariadev's Holopin board](https://holopin.me/ellenmariadev)](https://holopin.io/@ellenmariadev)
+<!-- [![@ellenmariadev's Holopin board](https://holopin.me/ellenmariadev)](https://holopin.io/@ellenmariadev) -->
