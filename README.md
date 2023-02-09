@@ -24,9 +24,3 @@ I am a Front-End Developer who simply 💜 combine good design and clean code in
 **Stack:**   `HTML` `CSS` `SASS` `JavaScript` `TypeScript` `React.js` `Jest` `Node.js` `Python` `Django`
  
  </samp>
- 
-<!--START_SECTION:waka-->
-
-
-
-<!--END_SECTION:waka-->
