@@ -16,30 +16,16 @@ I am a Front-End Developer who simply 💜 combine good design and clean code in
   
 <samp>
   
-> **Name:** Ellen Maria\
-> **Age:** 20\
-> **Living in:** Paulo Afonso - BA, Brazil\
-> **Favorite Game:** Stardew Valley\
-> **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmaria.me)
+ > **Name:** <kbd>_Ellen Maria_</kbd>\
+ > **Living in:** <kbd>_Paulo Afonso - BA_</kbd>\
+ > **Favorite Game:** <kbd>_Stardew Valley_</kbd>\
+ > **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmaria.me)
 
-**Stack:** `HTML` `CSS` `JavaScript` `React.js` `Chakra UI` `Node.js` `Python` `Django`
-
-</samp>
-
----
-
-<samp>
-
-<p align="center"><em>“Information is power. But like all power, there are those who want to keep it for themselves.” - Aaron Swartz</em></p>
-
-</samp>
-
-<h4 align="center">
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-</h4>
-
+**Stack:**   `HTML` `CSS` `SASS` `JavaScript` `TypeScript` `React.js` `Jest` `Node.js` `Python` `Django`
+ 
+ </samp>
+ 
+<!--  <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>SASS</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>Jest</kbd> <kbd>React.js</kbd>  <kbd>Node.js</kbd> <kbd>Python</kbd> <kbd>Django</kbd> -->
 
 
  
