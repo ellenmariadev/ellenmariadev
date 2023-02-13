@@ -16,9 +16,9 @@ I am a Front-End Developer who simply 💜 combine good design and clean code in
   
 <samp>
   
- > **Name:** <kbd>_Ellen Maria_</kbd>\
- > **Living in:** <kbd>_Paulo Afonso - BA_</kbd>\
- > **Favorite Game:** <kbd>_Stardew Valley_</kbd>\
+ > **Name:** _Ellen Maria_\
+ > **Living in:** _Bahia_\
+ > **Favorite Game:** _Stardew Valley_\
  > **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmaria.me)
 
 **Stack:**   `HTML` `CSS` `SASS` `JavaScript` `TypeScript` `React.js` `Jest` `Node.js` `Python` `Django`
