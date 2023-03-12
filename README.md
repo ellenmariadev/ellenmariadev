@@ -28,7 +28,8 @@ I am a Front-End Developer who simply 💜 combine good design and clean code in
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Ruby    12 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀   91.04 %
+Other   1 min           ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.96 %
 ```
 
 <!--END_SECTION:waka-->
