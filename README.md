@@ -21,7 +21,7 @@ I am a Front-End Developer who simply 💜 combine good design and clean code in
  > **Favorite Game:** _Stardew Valley_\
  > **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmaria.me)
 
-**Stack:**   `HTML` `CSS` `SASS` `JavaScript` `TypeScript` `React.js` `Jest` `Node.js` `Python` `Django`
+**Stack:**   `HTML` `CSS` `SASS` `JavaScript` `TypeScript` `React.js` `Redux` `Jest` `Node.js` `Python` `Django`
  
  </samp>
  
