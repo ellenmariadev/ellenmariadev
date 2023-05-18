@@ -28,9 +28,7 @@ I am a Front-End Developer who simply 💜 combine good design and clean code in
  <!--START_SECTION:waka-->
 
 ```text
-SCSS         2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.78 %
-TypeScript   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.01 %
-CSS          0 secs          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
