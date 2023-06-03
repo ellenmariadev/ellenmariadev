@@ -2,7 +2,7 @@
 
 <samp>
 
-I am a Front-End Developer who simply 💜 combine good design and clean code in all my projects!
+I am a Software Developer who simply 💜 combine good design and clean code in all my projects!
 
  
 </samp>
@@ -17,7 +17,7 @@ I am a Front-End Developer who simply 💜 combine good design and clean code in
 <samp>
   
  > **Name:** _Ellen Maria_\
- > **Living in:** _Bahia_\
+ > **Living in:** _Garanhuns/PE_\
  > **Favorite Game:** _Stardew Valley_\
  > **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmaria.me)
 
