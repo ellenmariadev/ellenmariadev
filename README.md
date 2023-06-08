@@ -28,7 +28,8 @@ I'm a Software Developer who simply 💜 combine good design and clean code in a
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 hr 22 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀   78.04 %
+HTML         23 mins         ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.96 %
 ```
 
 <!--END_SECTION:waka-->
