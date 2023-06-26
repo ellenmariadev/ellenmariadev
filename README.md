@@ -19,7 +19,7 @@ I'm a Software Developer who simply 💜 combine good design and clean code in a
  > **Name:** _Ellen Maria_\
  > **Living in:** _Garanhuns/PE_\
  > **Favorite Game:** _Stardew Valley_\
- > **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmaria.me](https://ellenmariadev.netlify.app)
+ > **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmariadev.netlify.app)
 
 **Stack:**   `HTML` `CSS` `SASS` `JavaScript` `TypeScript` `React.js` `Redux` `Jest` `Node.js` `Python` `Django`
  
