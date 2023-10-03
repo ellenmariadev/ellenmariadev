@@ -2,7 +2,7 @@
 
 <samp>
 
-I'm a Software Developer who simply 💜 combine good design and clean code in all my projects!
+I'm a Software Developer who simply 💜 combine good design and code!
 
  
 </samp>
