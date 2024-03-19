@@ -2,13 +2,6 @@
 
 <samp>
 
-I'm a Software Developer who simply 💜 combine good design and code!
-
- 
-</samp>
-
-<samp>
-
  ## Detailed Information
 
 </samp>
@@ -19,9 +12,10 @@ I'm a Software Developer who simply 💜 combine good design and code!
  > **Name:** _Ellen Maria_\
  > **Living in:** _Garanhuns/PE_\
  > **Favorite Game:** _Stardew Valley_\
+ > **University:** _UFAPE_\
  > **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmariadev.netlify.app)
 
-**Stack:**   `HTML` `CSS` `SASS` `JavaScript` `TypeScript` `React.js` `Redux` `Jest` `Node.js` `Python` `Django`
+**Stack:**   `TypeScript` `React.js` `Next.js` `Java` `Python` `Django`
  
  </samp>
  
