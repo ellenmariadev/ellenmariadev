@@ -15,7 +15,7 @@
  > **University:** _UFAPE_\
  > **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/) | [WebSite](https://ellenmariadev.netlify.app)
 
-**Stack:**   `TypeScript` `React.js` `Next.js` `Java` `Python` `Django`
+**Stack:**   `TypeScript` `React.js` `Next.js` `Go` `Nest.js` `Java` `Python` `Django`
  
  </samp>
  
