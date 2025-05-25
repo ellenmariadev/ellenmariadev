@@ -18,6 +18,8 @@
 **Stack:**   `TypeScript` `React.js` `Next.js` `Go` `Nest.js` `Java` `Python` `Django`
  
  </samp>
+
+ <kbd>`IN THE LAST 24 HOURS`</kbd> 
  
  <!--START_SECTION:waka-->
 
