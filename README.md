@@ -14,7 +14,5 @@
  > **Favorite Game:** _Stardew Valley_\
  > **University:** _UFAPE_\
  > **Contact:**   [Linkedin](https://www.linkedin.com/in/ellenmariadev/)
-
-**Stack:**   `TypeScript` `React.js` `Next.js` `Go` `Nest.js` `Java` `Python` `Django`
  
  </samp>
